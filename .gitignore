@@ -1,0 +1,20 @@
+# Build output
+build/
+.gradle/
+.kotlin/
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# User-supplied game data. Never commit a cache, client or keys.
+data/*
+!data/README.md
+*.dat2
+*.idx*
+xteas.json
+keys.json

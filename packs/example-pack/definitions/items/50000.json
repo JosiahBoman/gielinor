@@ -1,0 +1,6 @@
+{
+  "name": "Reforged blade",
+  "modelId": 50000,
+  "value": 125000,
+  "inventoryOptions": [null, "Wield", null, null, "Drop"]
+}
